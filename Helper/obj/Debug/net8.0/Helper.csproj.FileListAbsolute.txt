@@ -1,0 +1,12 @@
+C:\Users\jayden fung\source\repos\Helper\Helper\bin\Debug\net8.0\Helper.deps.json
+C:\Users\jayden fung\source\repos\Helper\Helper\bin\Debug\net8.0\Helper.dll
+C:\Users\jayden fung\source\repos\Helper\Helper\bin\Debug\net8.0\Helper.pdb
+C:\Users\jayden fung\source\repos\Helper\Helper\obj\Debug\net8.0\Helper.csproj.AssemblyReference.cache
+C:\Users\jayden fung\source\repos\Helper\Helper\obj\Debug\net8.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayden fung\source\repos\Helper\Helper\obj\Debug\net8.0\Helper.AssemblyInfoInputs.cache
+C:\Users\jayden fung\source\repos\Helper\Helper\obj\Debug\net8.0\Helper.AssemblyInfo.cs
+C:\Users\jayden fung\source\repos\Helper\Helper\obj\Debug\net8.0\Helper.csproj.CoreCompileInputs.cache
+C:\Users\jayden fung\source\repos\Helper\Helper\obj\Debug\net8.0\Helper.dll
+C:\Users\jayden fung\source\repos\Helper\Helper\obj\Debug\net8.0\refint\Helper.dll
+C:\Users\jayden fung\source\repos\Helper\Helper\obj\Debug\net8.0\Helper.pdb
+C:\Users\jayden fung\source\repos\Helper\Helper\obj\Debug\net8.0\ref\Helper.dll

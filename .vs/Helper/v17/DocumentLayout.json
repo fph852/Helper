@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jayden fung\\source\\repos\\Helper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35EA9538-8449-434A-B619-E94DDF606216}|TestHelper\\TestHelper.csproj|c:\\users\\jayden fung\\source\\repos\\helper\\testhelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EA9538-8449-434A-B619-E94DDF606216}|TestHelper\\TestHelper.csproj|solutionrelative:testhelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EA9538-8449-434A-B619-E94DDF606216}|TestHelper\\TestHelper.csproj|c:\\users\\jayden fung\\source\\repos\\helper\\testhelper\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EA9538-8449-434A-B619-E94DDF606216}|TestHelper\\TestHelper.csproj|solutionrelative:testhelper\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4922374-8260-491B-972A-6EF7BA0A92B0}|Helper\\Helper.csproj|c:\\users\\jayden fung\\source\\repos\\helper\\helper\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4922374-8260-491B-972A-6EF7BA0A92B0}|Helper\\Helper.csproj|solutionrelative:helper\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jayden fung\\source\\repos\\Helper\\TestHelper\\Program.cs",
+              "RelativeDocumentMoniker": "TestHelper\\Program.cs",
+              "ToolTip": "C:\\Users\\jayden fung\\source\\repos\\Helper\\TestHelper\\Program.cs",
+              "RelativeToolTip": "TestHelper\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwCsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T01:49:01.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\jayden fung\\source\\repos\\Helper\\Helper\\DBHelper.cs",
+              "RelativeDocumentMoniker": "Helper\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\jayden fung\\source\\repos\\Helper\\Helper\\DBHelper.cs",
+              "RelativeToolTip": "Helper\\DBHelper.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAiwF0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T01:34:33.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\jayden fung\\source\\repos\\Helper\\TestHelper\\Test.cs",
+              "RelativeDocumentMoniker": "TestHelper\\Test.cs",
+              "ToolTip": "C:\\Users\\jayden fung\\source\\repos\\Helper\\TestHelper\\Test.cs",
+              "RelativeToolTip": "TestHelper\\Test.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAwwHMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T01:49:39.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
